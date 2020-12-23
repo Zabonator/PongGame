@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+}
+
+h1 {
+    color : greenyellow;
+    font-family: fantasy;
+    text-align: center;
+}
+
+#pong {
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 5%;
+    border: 10px;
+    border-color: greenyellow;
+    border-style: solid;
+    border-radius: 10px;
+}
+
+#play {
+    text-align: center;
+    margin-left: 45%;
+    margin-right: 38%;
+    margin-top: 1%;
+    background-color: greenyellow;
+    border: none;
+    font-size: 200%;
+    font-family: fantasy;
+    padding: 0.5%;
+}
+
